@@ -68,7 +68,7 @@ Material:
     - _BUILTIN_QueueControl: 1
     - _BUILTIN_QueueOffset: 0
     - _BlendMode: 0
-    - _BottomLine: 0.843
+    - _BottomLine: 0.257
     - _ConservativeDepthOffsetEnable: 0
     - _CullMode: 2
     - _CullModeForward: 2
@@ -80,7 +80,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
-    - _Metallic: 0.5
+    - _Metallic: 0.671
     - _OpaqueCullMode: 2
     - _RayTracing: 0
     - _ReceivesSSR: 1
@@ -88,7 +88,7 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Smoothness: 0.562
+    - _Smoothness: 0.511
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
@@ -102,7 +102,7 @@ Material:
     - _StencilWriteMaskMV: 41
     - _SupportDecals: 1
     - _SurfaceType: 0
-    - _TopLine: 0.718
+    - _TopLine: 0.364
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
